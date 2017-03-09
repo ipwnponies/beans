@@ -8,7 +8,7 @@ import { postPreference } from '../actions/index';
 
 class UserPreferenceForm extends Component {
   static isoDateToString(ISODate) {
-    return moment(ISODate).tz('America/Los_Angeles').format('dddd LT z');
+    return moment(ISODate).local().format('dddd LT z');
   }
   constructor(props) {
     super(props);
