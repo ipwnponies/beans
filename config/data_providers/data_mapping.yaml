@@ -1,0 +1,11 @@
+---
+office_timezone:
+  'Germany: Hamburg Office': 'Europe/Berlin'
+  'Ireland: Dublin Office': 'Europe/Dublin'
+  'USA: AZ Phoenix Office': 'America/Phoenix'
+  'USA: CA SF Hawthorne Office': 'America/Los_Angeles'
+  'USA: CA SF New Montgomery Office': 'America/Los_Angeles'
+  'USA: IL Chicago Office': 'America/Los_Angeles'
+  'USA: NY New York City Office': 'America/New_York'
+  'USA: PA Pittsburgh Office': 'America/New_York'
+  'United Kingdom: London Office': 'Europe/London'
